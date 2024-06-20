@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "name": "user1",
+      "email": "abc@gmail.com",
+      "password": "123",
+      "gender": "Male",
+      "country": "",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "id": "admin1",
+      "name": "Murugank",
+      "email": "ghhj@gmail.com",
+      "password": "345",
+      "gender": "Male",
+      "country": "",
+      "address": "",
+      "phone": ""
+    }
+  ]
+}
